@@ -20,3 +20,5 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+// https://stackblitz.com/edit/table-like-mat-accordion-gui7vo
